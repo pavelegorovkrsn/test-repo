@@ -1,5 +1,5 @@
 public class Calculator{
   public int add(int a, int b){ return a+b;}
   
-  public void subtract(){}
+  public int subtract(int a, int b){ return a-b; }
 }
